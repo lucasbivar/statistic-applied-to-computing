@@ -6,6 +6,8 @@
 ## 💡 Technologies
   <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="43" height="50"/>
+    <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" width="70" height="60"/>
   </p>
 
 <hr> 
