@@ -11,6 +11,12 @@
   </p>
 
 <hr> 
+
+## 📝 Description
+
+Codes and Projects produced in the Statistics Applied to Computing classes of the Computer Engineering Graduation at IFPB - Campina Grande.
+
+<hr>
  
 ## 🤓 Author 
 <table>
